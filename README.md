@@ -2,7 +2,7 @@
 
 
 
-<img src="https://github.com/fikretsefa/OCR-Image-To-Text/blob/main/tesseract.png" width="300" >
+<img src="https://github.com/fikretsefa/OCR-Image-To-Excel/blob/master/tesseract.png" width="300" >
 
 Tesseract, çeşitli işletim sistemleri için geliştirilen özgür bir optik karakter tanıma (OCR) motorudur.
 
